@@ -5,5 +5,11 @@
 		"app/js/jquery.js",
 		"app/js/tempo.js",
 		"app/js/controls.js"
+    ],
+	"jsHint" : [
+		"app/js/tpl.js",
+		"app/js/tempo.js",
+		"app/js/controls.js",
+		"app/js/app.js"
     ]
 }
