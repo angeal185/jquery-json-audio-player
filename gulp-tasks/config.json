@@ -1,0 +1,9 @@
+﻿{
+	"name":"portfolio",
+	"joinJs" : [
+		"app/js/tpl.js",
+		"app/js/jquery.js",
+		"app/js/tempo.js",
+		"app/js/controls.js"
+    ]
+}
